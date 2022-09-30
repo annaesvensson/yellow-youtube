@@ -1,5 +1,5 @@
 <?php
-// Youtube extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/youtube
+// Youtube extension, https://github.com/annaesvensson/yellow-youtube
 
 class YellowYoutube {
     const VERSION = "0.8.6";
