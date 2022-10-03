@@ -45,4 +45,4 @@ Detta tilläg använder [Youtube](https://www.youtube.com) av Google. Tjänstele
 
 ## Utvecklare
 
-Datenstrom. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).

@@ -45,4 +45,4 @@ This extension uses [Youtube](https://www.youtube.com) by Google. The service pr
 
 ## Developer
 
-Datenstrom. [Get help](https://datenstrom.se/yellow/help/).
+Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).

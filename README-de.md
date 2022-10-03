@@ -45,4 +45,4 @@ Diese Erweiterung verwendet [Youtube](https://www.youtube.com) von Google. Der D
 
 ## Entwickler
 
-Datenstrom. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
