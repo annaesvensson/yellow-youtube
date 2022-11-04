@@ -16,7 +16,7 @@ class YellowYoutube {
         $output = null;
         if ($name=="youtube" && ($type=="block" || $type=="inline")) {
             list($id, $style, $width, $height) = $this->yellow->toolbox->getTextArguments($text);
-            if (empty($style)) $style = $this->yellow->system->get("youtubeStyle");
+            if (is_string_empty($style)) $style = $this->yellow->system->get("youtubeStyle");
             $language = $page->get("language");
             $output = "<div class=\"".htmlspecialchars($style)."\">";
             $output .= "<iframe src=\"https://www.youtube.com/embed/".rawurlencode($id)."?hl=".rawurlencode($language)."\" frameborder=\"0\" allow=\"fullscreen\"";
