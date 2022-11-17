@@ -16,7 +16,9 @@ Die folgenden Argumente sind verfügbar, alle bis auf das erste Argument sind op
 `Style` = Videostil, z.B. `left`, `center`, `right`  
 `Width` = Videobreite, Pixel oder Prozent  
 `Height` = Videohöhe, Pixel oder Prozent  
- 
+
+Du solltest wissen, dass der Dienstanbieter personenbezogene Daten sammelt und Cookies benutzt.
+
 ## Beispiele
 
 Video einbinden, unterschiedliche Videos:
@@ -37,11 +39,13 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 
 `YoutubeStyle` = Videostil, z.B. `flexible`  
 
+## Danksagung
+
+Diese Erweiterung verwendet [Youtube](https://www.youtube.com) von Google. Danke für den kostenlosen Service.
+
 ## Installation
 
 [Erweiterung herunterladen](https://github.com/annaesvensson/yellow-youtube/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
-
-Diese Erweiterung verwendet [Youtube](https://www.youtube.com) von Google. Der Dienstanbieter sammelt personenbezogene Daten und benutzt Cookies.
 
 ## Entwickler
 

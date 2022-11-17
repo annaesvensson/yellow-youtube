@@ -16,7 +16,9 @@ Följande argument är tillgängliga, alla utom det första argumentet är valfr
 `Style` = videostil, t.ex. `left`, `center`, `right`  
 `Width` = videobredd, pixel eller procent  
 `Height` = videohöjd, pixel eller procent  
- 
+
+Du bör veta att tjänsteleverantören samlar in personuppgifter och använder cookies.
+
 ## Exempel
 
 Bädda in en video, olika videor:
@@ -37,11 +39,13 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 `YoutubeStyle` = video style, e.g. `flexible`  
 
+## Tack
+
+Detta tilläg använder [Youtube](https://www.youtube.com) av Google. Tack för den kostnadsfria tjänsten.
+
 ## Installation
 
 [Ladda ner tillägg](https://github.com/annaesvensson/yellow-youtube/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
-
-Detta tilläg använder [Youtube](https://www.youtube.com) av Google. Tjänsteleverantören samlar in personuppgifter och använder cookies.
 
 ## Utvecklare
 
