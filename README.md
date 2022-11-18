@@ -39,7 +39,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 `YoutubeStyle` = video style, e.g. `flexible`  
 
-## Acknowledgments
+## Acknowledgements
 
 This extension uses [Youtube](https://www.youtube.com) by Google. Thank you for the free service.
 
