@@ -6,6 +6,10 @@ Bädda in Youtube-videor.
 
 <p align="center"><img src="youtube-screenshot.png?raw=true" alt="Skärmdump"></p>
 
+## Hur man installerar ett tillägg
+
+[Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-youtube/archive/main.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
+
 ## Hur man bäddar in en video
 
 Skapa en `[youtube]` förkortning.
@@ -42,10 +46,6 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 ## Tack
 
 Detta tilläg använder [Youtube](https://www.youtube.com) av Google. Tack för den kostnadsfria tjänsten.
-
-## Installation
-
-[Ladda ner tillägg](https://github.com/annaesvensson/yellow-youtube/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Utvecklare
 
