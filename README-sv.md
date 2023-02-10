@@ -45,7 +45,7 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 ## Tack
 
-Detta tilläg använder [Youtube](https://www.youtube.com) av Google. Tack för den kostnadsfria tjänsten.
+Detta tillägg använder [Youtube](https://www.youtube.com) av Google. Tack för den kostnadsfria tjänsten.
 
 ## Utvecklare
 
