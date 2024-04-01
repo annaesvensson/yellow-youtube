@@ -2,7 +2,7 @@
 // Youtube extension, https://github.com/annaesvensson/yellow-youtube
 
 class YellowYoutube {
-    const VERSION = "0.8.7";
+    const VERSION = "0.8.8";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -11,8 +11,8 @@ class YellowYoutube {
         $this->yellow->system->setDefault("youtubeStyle", "flexible");
     }
     
-    // Handle page content of shortcut
-    public function onParseContentShortcut($page, $name, $text, $type) {
+    // Handle page content element
+    public function onParseContentElement($page, $name, $text, $attributes, $type) {
         $output = null;
         if ($name=="youtube" && ($type=="block" || $type=="inline")) {
             list($id, $style, $width, $height) = $this->yellow->toolbox->getTextArguments($text);
